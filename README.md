@@ -41,6 +41,7 @@ Deep Learning:
 
 Library and Packages:
 * [Nilearn](https://nilearn.github.io/dev/index.html)
+* [fmriprep](https://fmriprep.org/en/stable/#)
 
 Datasets:
 * [OpenfMRI](https://openfmri.org/dataset/)
