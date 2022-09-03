@@ -11,6 +11,8 @@ Resources(fMRI):
 * [EuSoMII WEBINARS](https://www.youtube.com/playlist?list=PLDTG-pzkHvCf09Xrt9N9Oug3qVDt5zb8X)
 * [Virtual Summer Training Program 2020](https://www.youtube.com/playlist?list=PLZRRlbOTxTmB7yHzOAYegnWLjS2_1o8xA)
 
+Books:
+* [NI Edu](https://lukas-snoek.com/NI-edu/index.html)
 
 Neuroscience Resources:
 * [Neuroscience Crash Course](https://www.youtube.com/playlist?list=PLOA0aRJ90NxuIgOC9YGRUT4Y-CsP12bsS)
