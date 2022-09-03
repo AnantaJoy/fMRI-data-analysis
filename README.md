@@ -3,6 +3,7 @@ Resources(fMRI):
 * [MRI Physics](https://www.youtube.com/playlist?list=PLIfBbrWfKu6-XPvqWM6aZhlKKOuRLIJWG)
 * [Introducing MRI](https://www.youtube.com/playlist?list=PLPcImQzEnTpz-5TzxyyoYSbiAa9xdd89l)
 * [fMRI Bootcamp](https://www.youtube.com/playlist?list=PLglqFN9JmCdoOjuHBB4TOR-XRK-CdRy4m)
+* [Foundations of NeuroImaging](https://youtube.com/playlist?list=PLq0bqPNy1g6ybiTQhhfDCBgUhCKtnAcEs)
 * [Principles of fMRI Course by Tor and Martin, lectures in order](https://www.youtube.com/playlist?list=PLcvMDPDk-dSmTBejANv7kY2mFo1ni_gkA)
 * [Lectures for Chaos](https://youtube.com/playlist?list=PLIznpvQbZ-W75jgAuWzCMRT9xlPv8feiN)
 * [Monash Biomedical Imaging Seminars](https://www.youtube.com/playlist?list=PLQgzH4d8zYv6zkVO4SAqxuLWQO_CKkzi7)
@@ -13,6 +14,9 @@ Resources(fMRI):
 
 Books:
 * [NI Edu](https://lukas-snoek.com/NI-edu/index.html)
+* [Brain Book](https://andysbrainbook.readthedocs.io/en/latest/index.html) [Video](https://www.youtube.com/c/AndrewJahn/playlists)
+* [DartBrains](https://dartbrains.org/content/intro.html)
+* [fMRI Course](https://sites.google.com/dartmouth.edu/mind-fmri-course/enroll?authuser=0)
 
 Neuroscience Resources:
 * [Neuroscience Crash Course](https://www.youtube.com/playlist?list=PLOA0aRJ90NxuIgOC9YGRUT4Y-CsP12bsS)
